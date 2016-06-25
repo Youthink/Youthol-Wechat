@@ -21,10 +21,10 @@
 	<div class="weui_grids">
 		<a href="javascript:;" class="weui_grid">
 			<div class="weui_grid_icon">
-				<img src="<?php echo base_url()."/public/images/icon_nav_button.png" ?>" alt="">
+				<img src="<?php echo base_url()."/public/images/heart.png" ?>" alt="">
 			</div>
 			<p class="weui_grid_label">
-				Button
+				谁暗恋你
 			</p>
 		</a>
 		<a href="<?php echo site_url()."/lib/login" ?>" class="weui_grid">
